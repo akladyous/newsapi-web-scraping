@@ -189,7 +189,7 @@ df = pd.DataFrame(articles)
 df.head(3)
 ```
 
-![Screen Shot 2021-06-12 at 2.09.47 AM](/Users/boula/Library/Mobile Documents/com~apple~CloudDocs/Screenshots/Screen Shot 2021-06-12 at 2.09.47 AM.png)
+![df](https://raw.githubusercontent.com/akladyous/newsapi-web-scraping/main/df.png)
 
 
 
